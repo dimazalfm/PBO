@@ -4,6 +4,7 @@ Aplikasi kasir sederhana berbasis Python sesuai use case:
 - Login Kasir
 - Cari Produk
 - Lihat Stok Produk
+- Tambah Produk
 - Tambah Item Belanja
 - Hitung Total Belanja
 - Terapkan Diskon (opsional)
